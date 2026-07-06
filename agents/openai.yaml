@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coordinate GPT Review"
+  short_description: "Coordinate evidence-backed GPT review"
+  default_prompt: "Use $coordinate-gpt-review to send a focused artifact review to GPT and return evidence-backed feedback."
