@@ -11,7 +11,7 @@ Use this skill for GPT review loops where the main agent must keep ownership of 
 
 Real GPT review means a browser ChatGPT/GPT conversation was actually sent and the latest response was extracted. Internal critique, simulated review, another Codex subagent's opinion, or a locally generated "second review" is not GPT review and must be labeled internal or simulated.
 
-Original author: whmc76. This skill is open source; downstream copies and modified versions should preserve the original author and license notice.
+Original author: whmc76. This skill is open source under Apache License 2.0 with a NOTICE file; downstream copies and modified versions should preserve the original author, license, and NOTICE attribution.
 
 ## Decision
 
